@@ -7,3 +7,5 @@ user b adding a  new line
 user a adding another line
 
 user b adding anothe rline 
+
+user a adding another line for simultaneous changes
