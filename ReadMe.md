@@ -8,4 +8,8 @@ user a adding another line
 
 user b adding anothe rline 
 
+
 User b is making changes at the same time as a, then merging. 
+
+user a adding another line for simultaneous changes
+
